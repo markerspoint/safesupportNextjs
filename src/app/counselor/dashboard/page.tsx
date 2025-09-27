@@ -2,7 +2,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 export default function CounselorDashboard() {
   return (
-    <div className="space-y-6 w-full h-full flex flex-col">
+    <div className="space-y-6 w-full h-full flex flex-col"> 
       <h1 className="text-2xl font-bold">Counselor Dashboard</h1>
 
       <div className="flex-1">
